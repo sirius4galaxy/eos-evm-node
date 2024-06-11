@@ -6,4 +6,4 @@
 	url = https://github.com/AntelopeIO/appbase
 [submodule "external/abieos"]
 	path = external/abieos
-	url = https://github.com/AntelopeIO/abieos
+	url = https://github.com/sirius4galaxy/abieos.git
