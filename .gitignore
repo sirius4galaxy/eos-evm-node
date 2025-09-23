@@ -12,3 +12,7 @@ tests/venv
 
 *.pyc
 *.pyo
+
+*.build*
+*.test*
+*.run*
